@@ -1,10 +1,10 @@
-﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ProjectEric.master.vb" Inherits="ProjectEric.ProjectEric" %>
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="PersonalProjects.Master.vb" Inherits="PersonalProjects.PersonalProjects" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml" runat="server" id="htmlControl">
 <head runat="server">
-    <title>Eric's Personal Project Page</title>
+    <title>My Personal Project Page</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>

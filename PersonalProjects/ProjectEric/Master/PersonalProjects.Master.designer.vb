@@ -11,7 +11,7 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class ProjectEric
+Partial Public Class PersonalProjects
     
     '''<summary>
     '''htmlControl control.
