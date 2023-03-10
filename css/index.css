@@ -1,5 +1,14 @@
+.index-banner {
+    background-color:#B6CDBA;
+    height: 500px;
+}
+
 .fixed-action-btn .btn-floating {
-    background-color: #cdb9b6;
+    background-color: #CDB9B6;
+}
+
+.fixed-action-btn .btn-floating:hover {
+    background-color: #B6CDBA;
 }
 
 footer.page-footer li {
