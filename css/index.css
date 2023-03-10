@@ -1,0 +1,69 @@
+.fixed-action-btn .btn-floating {
+    background-color: #cdb9b6;
+}
+
+footer.page-footer li {
+    margin: 10px 0;
+}
+
+footer.page-footer {
+    background-color: #90827f;
+}
+
+footer.page-footer .row {
+    margin-bottom: 0;
+}
+
+.portfolio .col {
+    margin-bottom: 24px;
+}
+
+.portfolio h4 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.portfolio h5 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.portfolio h6 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+
+.portfolio hr {
+    width: 40px;
+    margin-bottom: 45px;
+}
+
+.portfolio .portfolio-holder {
+    clear: both;
+    text-align: center;
+}
+
+.portfolio img {
+    width: 33%;
+    display: inline-block;
+    /* float: left; */
+}
+
+.navtitle {
+    position: absolute;
+    color: #000000;
+    display: inline-block;
+    padding: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 0;
+    font-size: 1.24rem;
+    line-height: 1.804rem;
+    margin: 1.2rem 0 0.656rem 0;
+    text-transform: uppercase;
+
+}
