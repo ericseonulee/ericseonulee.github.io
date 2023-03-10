@@ -1,6 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .index-banner {
     background-color: #B6CDBA;
-    height: 500px;
+    height: 800px;
+    margin-bottom: 400px;
 }
 
 .fixed-action-btn {
@@ -22,6 +27,7 @@ footer.page-footer li {
 
 footer.page-footer {
     background-color: #90827f;
+    padding-top: 100px;
 }
 
 footer.page-footer .row {
@@ -87,6 +93,7 @@ footer.page-footer .row {
 .nav-wrapper {
     text-align: center;
 }
+
 .nav-wrapper .sidenav-trigger {
     display: initial;
 }
@@ -94,4 +101,9 @@ footer.page-footer .row {
 .nav-wrapper .sidenav-trigger i {
     font-size: 2em;
     cursor: pointer;
+}
+
+.section {
+    scroll-margin-top: 100px;
+    margin-bottom: 400px;
 }
